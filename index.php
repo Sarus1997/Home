@@ -26,7 +26,7 @@
     .bg3 {
         background-color: rgb(201, 201, 230);
         width: 200px;
-        height: 1795px;
+        height: 1350px;
         float: left;
     }
 
