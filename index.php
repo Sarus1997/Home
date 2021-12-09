@@ -26,7 +26,7 @@
     .bg3 {
         background-color: rgb(201, 201, 230);
         width: 200px;
-        height: 1737px;
+        height: 1795px;
         float: left;
     }
 
@@ -67,7 +67,7 @@
         </center>
         </div>
         <div class="row">
-            <div class="col-6">
+            <div class="col-5">
                 <div class="card" style="width: 20rem;">
                     <img src="https://obs.line-scdn.net/0hP2zRU8f2Dx1HKyLMSThwSn19DHJ0RxweIx1eHhtFUSk5SE9KeUhFKGsuU39sEkhDKRpGfGQpFCxjTEtIK09F/w1200"
                         class="card-img-top" alt="...">
